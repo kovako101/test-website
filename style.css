@@ -1,3 +1,29 @@
+body{
+  background-color:black;
+}
+h1{
+  text-align:center;
+  font-family:arial;
+  color:white;
+}
+h3{
+  text-align:left;
+  font-family:arial;
+  color:white;
+}
+p{
+  color:white;
+  font-family:arial;
+}
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.image{
+  border-radius:10%;
+}
 <!DOCTYPE html>
 <html>
 
@@ -19,7 +45,7 @@
   </div>
 
 
-  
+
   <script src="script.js"></script>
 </body>
 
