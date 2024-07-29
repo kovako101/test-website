@@ -24,29 +24,3 @@ p{
 .image{
   border-radius:10%;
 }
-<!DOCTYPE html>
-<html>
-
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width">
-  <title>Testing_HTML</title>
-  <link href="style.css" rel="stylesheet" type="text/css" />
-</head>
-
-<body>
-  <h1>Kovako</h1>
-  <hr>
-  <h3>About me</h3>
-  <p>I am a dipshit that likes to code in C and C++</p>
-  <div class="container">
-    <img src="image.jpg" alt="Image" style="width:50%;" class="image">
-
-  </div>
-
-
-
-  <script src="script.js"></script>
-</body>
-
-</html>
