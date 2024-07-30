@@ -24,3 +24,9 @@ p{
 .image{
   border-radius:10%;
 }
+#P1{
+	float:left;
+	width:25%;
+	margin: auto;
+	color:red;
+}
