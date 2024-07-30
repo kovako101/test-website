@@ -24,9 +24,11 @@ p{
 .image{
   border-radius:10%;
 }
-#P1{
+.projectContainer{
+	overflow:auto;
+	width:100%;
+}
+.projectContainerDiv{
+	width:33%;
 	float:left;
-	width:25%;
-	margin: auto;
-	color:red;
 }
