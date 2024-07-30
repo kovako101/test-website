@@ -25,6 +25,7 @@ p{
   border-radius:10%;
 }
 .projectContainer{
+	color:white;
 	overflow:auto;
 	width:100%;
 }
